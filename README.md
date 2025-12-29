@@ -16,8 +16,9 @@
 - Computer Vision and Robotics projects
 - ML applications for sensing and control
 
-📫 Reach me at: nitya.mitnala@gmail.com
-LinkedIn: https://www.linkedin.com/in/nitya-mitnala-4636a8236/
+📫 Reach me at: 
+- Gmail: nitya.mitnala@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nitya-mitnala-4636a8236/
 
 <!---
 NityaMitnala/NityaMitnala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
